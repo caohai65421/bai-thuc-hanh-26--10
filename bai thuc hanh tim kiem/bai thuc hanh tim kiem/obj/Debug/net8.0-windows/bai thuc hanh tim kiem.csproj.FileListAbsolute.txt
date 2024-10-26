@@ -1,0 +1,16 @@
+D:\C#\1\thuc hanh 26 -10\bai thuc hanh tim kiem\bai thuc hanh tim kiem\bin\Debug\net8.0-windows\bai thuc hanh tim kiem.exe
+D:\C#\1\thuc hanh 26 -10\bai thuc hanh tim kiem\bai thuc hanh tim kiem\bin\Debug\net8.0-windows\bai thuc hanh tim kiem.deps.json
+D:\C#\1\thuc hanh 26 -10\bai thuc hanh tim kiem\bai thuc hanh tim kiem\bin\Debug\net8.0-windows\bai thuc hanh tim kiem.runtimeconfig.json
+D:\C#\1\thuc hanh 26 -10\bai thuc hanh tim kiem\bai thuc hanh tim kiem\bin\Debug\net8.0-windows\bai thuc hanh tim kiem.dll
+D:\C#\1\thuc hanh 26 -10\bai thuc hanh tim kiem\bai thuc hanh tim kiem\bin\Debug\net8.0-windows\bai thuc hanh tim kiem.pdb
+D:\C#\1\thuc hanh 26 -10\bai thuc hanh tim kiem\bai thuc hanh tim kiem\obj\Debug\net8.0-windows\bai_thuc_hanh_tim_kiem.Form1.resources
+D:\C#\1\thuc hanh 26 -10\bai thuc hanh tim kiem\bai thuc hanh tim kiem\obj\Debug\net8.0-windows\bai thuc hanh tim kiem.csproj.GenerateResource.cache
+D:\C#\1\thuc hanh 26 -10\bai thuc hanh tim kiem\bai thuc hanh tim kiem\obj\Debug\net8.0-windows\bai thuc hanh tim kiem.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\1\thuc hanh 26 -10\bai thuc hanh tim kiem\bai thuc hanh tim kiem\obj\Debug\net8.0-windows\bai thuc hanh tim kiem.AssemblyInfoInputs.cache
+D:\C#\1\thuc hanh 26 -10\bai thuc hanh tim kiem\bai thuc hanh tim kiem\obj\Debug\net8.0-windows\bai thuc hanh tim kiem.AssemblyInfo.cs
+D:\C#\1\thuc hanh 26 -10\bai thuc hanh tim kiem\bai thuc hanh tim kiem\obj\Debug\net8.0-windows\bai thuc hanh tim kiem.csproj.CoreCompileInputs.cache
+D:\C#\1\thuc hanh 26 -10\bai thuc hanh tim kiem\bai thuc hanh tim kiem\obj\Debug\net8.0-windows\bai thuc hanh tim kiem.dll
+D:\C#\1\thuc hanh 26 -10\bai thuc hanh tim kiem\bai thuc hanh tim kiem\obj\Debug\net8.0-windows\refint\bai thuc hanh tim kiem.dll
+D:\C#\1\thuc hanh 26 -10\bai thuc hanh tim kiem\bai thuc hanh tim kiem\obj\Debug\net8.0-windows\bai thuc hanh tim kiem.pdb
+D:\C#\1\thuc hanh 26 -10\bai thuc hanh tim kiem\bai thuc hanh tim kiem\obj\Debug\net8.0-windows\bai thuc hanh tim kiem.genruntimeconfig.cache
+D:\C#\1\thuc hanh 26 -10\bai thuc hanh tim kiem\bai thuc hanh tim kiem\obj\Debug\net8.0-windows\ref\bai thuc hanh tim kiem.dll
